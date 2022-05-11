@@ -1,4 +1,4 @@
-![](white_textlogo_black_background.png)
+![](white_textlogo_black.png)
 # Prueba técnica — Net developer
 
 # Introducción
